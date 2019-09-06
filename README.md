@@ -5,7 +5,7 @@ in the examples of the work "Semigroups with fixed multiplicity and embedding di
 
 Just download the file ```FrobeniusNumberAndGenus.m``` and execute it in ```Mathematica``` (the file can be downloaded directly by clicking [here](https://raw.githubusercontent.com/JuanIgnacioGarciaUCA/FrobeniusNumberAndGenus/master/FrobeniusNumberAndGenus.m)). 
 The functions of the library are ```ComputeMinimumGenusLme```, ```MinFrob```, ```FrobeniusEmbeddingDimensionMultiplicity```, ```ComputeEquivalenceClass```.
-The call to them in our work are the following:
+In our work, the commands are the following:
 - ```ComputeMinimumGenusLme[5,3]```
 - ```MinFrob[4,3]```
 - ```FrobeniusEmbeddingDimensionMultiplicity[6,3,4]```
