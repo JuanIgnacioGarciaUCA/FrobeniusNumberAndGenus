@@ -3,8 +3,9 @@
 The purpose of this repository is to provide the functions used 
 in the examples of the work "Semigroups with fixed multiplicity and embedding dimension".
 
-Just download the file ```FrobeniusNumberAndGenus.m``` and execute this library in ```Mathematica```. 
-The functions used in our work are:
+Just download the file ```FrobeniusNumberAndGenus.m``` and execute it in ```Mathematica``` (the file can be downloaded directly by clicking [here](https://raw.githubusercontent.com/JuanIgnacioGarciaUCA/FrobeniusNumberAndGenus/master/FrobeniusNumberAndGenus.m)). 
+The functions of the library are ```ComputeMinimumGenusLme```, ```MinFrob```, ```FrobeniusEmbeddingDimensionMultiplicity```, ```ComputeEquivalenceClass```.
+The call to them in our work are the following:
 - ```ComputeMinimumGenusLme[5,3]```
 - ```MinFrob[4,3]```
 - ```FrobeniusEmbeddingDimensionMultiplicity[6,3,4]```
